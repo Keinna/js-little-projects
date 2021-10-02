@@ -1,6 +1,3 @@
-# js-little-projects
+# loading img
 
-I will put every javascript project in a branch of their own.
-
-This repo contains:
-- loading img
+This project shows an img which starts out blurred but will be clear when text says 100%.
