@@ -1,6 +1,6 @@
-# js-little-projects
+# vertical-slider-text-img
 
-I will put every javascript project in a branch of their own.
+Slider with text on one side and an image on the other side.
+One side goes op and one side goes down. It brings the content together. Thanks to Brad Traversy.
 
-This repo contains:
-- loading img
+NOT RESPONSIVE! 
