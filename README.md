@@ -1,8 +1,5 @@
-# js-little-projects
+# js-search-filter
 
-I will put every javascript project in a branch of their own.
+User card data are pulled in via API
 
-This repo contains:
-- loading img
-- vertical-slider-text-img
-- js-search-filter
+HTML uses a template. Allows you to create html that doesn't show up on the page. 
